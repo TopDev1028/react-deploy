@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.f855e6bc.css",
-    "main.js": "/react-deploy/static/js/main.9f5243b1.js",
+    "main.css": "/react-deploy/static/css/main.cf8a1082.css",
+    "main.js": "/react-deploy/static/js/main.17975104.js",
     "static/js/787.aad11d4d.chunk.js": "/react-deploy/static/js/787.aad11d4d.chunk.js",
+    "static/media/back2.jpg": "/react-deploy/static/media/back2.0dbae9d078e6df0f8ab8.jpg",
+    "static/media/ListGPT.jpg": "/react-deploy/static/media/ListGPT.f83a343971939ff61b63.jpg",
+    "static/media/AddGPT.jpg": "/react-deploy/static/media/AddGPT.627e6a0dfe134674fa2a.jpg",
+    "static/media/logo.png": "/react-deploy/static/media/logo.50155b92e86aea854864.png",
     "static/media/logo.svg": "/react-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-deploy/index.html",
-    "main.f855e6bc.css.map": "/react-deploy/static/css/main.f855e6bc.css.map",
-    "main.9f5243b1.js.map": "/react-deploy/static/js/main.9f5243b1.js.map",
+    "main.cf8a1082.css.map": "/react-deploy/static/css/main.cf8a1082.css.map",
+    "main.17975104.js.map": "/react-deploy/static/js/main.17975104.js.map",
     "787.aad11d4d.chunk.js.map": "/react-deploy/static/js/787.aad11d4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9f5243b1.js"
+    "static/css/main.cf8a1082.css",
+    "static/js/main.17975104.js"
   ]
 }
